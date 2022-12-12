@@ -1,2 +1,2 @@
 # pixDraw
-pixel art drawing too
+pixel art drawing tool
